@@ -2,8 +2,6 @@
 
 <center>
 
-![SweetWood](https://raw.githubusercontent.com/Chatr0uge/SweetWood-theme-for-VsCode/main/images/icon.png)
-
 </center>Sweet Wood is a visually captivating dark theme for Visual Studio Code, designed to enhance your coding experience with a harmonious blend of elegance and functionality. Inspired by the rich textures of nature, Sweet Wood brings a sense of warmth and sophistication to your coding environment.
 
 The primary color palette features deep shades of ebony and charcoal, creating a canvas that is easy on the eyes during long coding sessions while maintaining excellent contrast for enhanced readability. Subtle accents of mahogany and chestnut add depth and character, infusing the interface with a touch of rustic charm.
@@ -23,7 +21,7 @@ The **Hard** | **Medium** | **Soft** variants, which were computed using the Vim
 
 The color palette has been computed on the former image using K-MEANS Bisecting algorithm. A python package is in preparation.
 
-![ColorPalette](https://raw.githubusercontent.com/Chatr0uge/SweetWood-theme-for-VsCode/main/images/4_palette.png)
+![ColorPalette](https://raw.githubusercontent.com/Chatr0uge/SweetWood-theme-for-VsCode/main/images/palette.png)
 
 ## Preview
 
@@ -41,10 +39,10 @@ If you find any bugs or have suggestions for improvements, please [open an issue
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
-2. Search for `Smooth-Burn`
+2. Search for `Sweet-Wood`
 3. Click **Install**
 4. Click **Reload**
-5. Select the smooth-burn theme by going to `Code > Preferences > Color Theme > smooth-burn`
+5. Select the Sweet-Burn theme by going to `Code > Preferences > Color Theme > Sweet-Wood`
 
 ## License
 
